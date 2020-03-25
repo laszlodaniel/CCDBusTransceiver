@@ -16,6 +16,8 @@
  * along with this program. If not, see <http://www.gnu.org/licenses/>.
  */
 
+// Board: Arduino Uno
+
 uint8_t engine_speed[] = { 0xE4, 0x00, 0x00, 0xE4 };
 uint8_t vehicle_speed[] = { 0x24, 0x00, 0x00, 0x24 };
 
