@@ -11,4 +11,4 @@ Development board for interfacing Chrysler's legacy CCD-bus.
 
 ![V1.00 PCB bottom](https://chryslerccdsci.files.wordpress.com/2020/03/ccdbustransceiver_v100_bottom_render_01.png)
 
-For mor information visit the [related blogpost.](https://chryslerccdsci.wordpress.com/2020/03/22/re-designing-the-ccd-bus-transceiver-chip/)
+For more information visit the [related blogpost.](https://chryslerccdsci.wordpress.com/2020/03/22/re-designing-the-ccd-bus-transceiver-chip/)
