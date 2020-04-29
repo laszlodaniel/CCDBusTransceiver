@@ -1,9 +1,5 @@
 # CCDBusTransceiver
-Development board for interfacing Chrysler's legacy CCD-bus.
-
-**Arduino** folder contains an example code for the development board written in Arduino IDE 1.8.12.
-
-**PCB** folder contains everything to manufacture and assemble the hardware.
+Development board for interfacing Chrysler's legacy CCD-bus (no CDP68HC68S1 chip needed).
 
 ![V1.01 schematic](https://chryslerccdsci.files.wordpress.com/2020/04/ccdbustransceiver_v101_schematic.png)
 
