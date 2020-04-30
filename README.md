@@ -1,6 +1,8 @@
 # CCDBusTransceiver
 Development board for interfacing Chrysler's legacy CCD-bus (no CDP68HC68S1 chip needed).
 
+To be used with [CCDLibrary](https://github.com/laszlodaniel/CCDLibrary).
+
 ![V1.01 schematic](https://chryslerccdsci.files.wordpress.com/2020/04/ccdbustransceiver_v101_schematic.png)
 
 ![V1.01 PCB top](https://chryslerccdsci.files.wordpress.com/2020/04/ccdbustransceiver_v101_top_render.png)
