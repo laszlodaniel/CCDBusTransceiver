@@ -1,0 +1,26 @@
+CCDBusTransceiver_V103
+
+Part  Value      Package     Description    
+---------------------------------------------------------------------------------
+C1    0.1uF      1206        Ceramic capacitor (50V / X7R)
+C2    0.1uF      1206        Ceramic capacitor (50V / X7R)
+C3    0.1uF      1206        Ceramic capacitor (50V / X7R)
+D1    BZV55C4V7  1206        Zener diode (4.7V)
+D2    BZV55C4V7  1206        Zener diode (4.7V)
+J1    UART       1X04        UART pin header (0.1")
+J2    OBD        1X03        OBD pin header (0.1")
+J3    TBEN       1X02        CCD-bus termination and bias resistors jumper (0.1")
+J4    TBEN       1x02        CCD-bus termination and bias resistors jumper (0.1")
+N1    AO3400     SOT23-3     30V N-channel MOSFET       
+R1    120        1206        Resistor 1% (1/4W)
+R2    13k        1206        Resistor 1% (1/4W)
+R3    13k        1206        Resistor 1% (1/4W)
+R4    360-2000   1206        Resistor 1% (1/4W)
+R5    360-2000   1206        Resistor 1% (1/4W)
+R6    10k        1206        Resistor 1% (1/4W)
+R7    10k        1206        Resistor 1% (1/4W)
+R8    10         1206        Resistor 1% (1/4W)
+R9    10         1206        Resistor 1% (1/4W)
+R10   10k        1206        Resistor 1% (1/4W)
+U1    IRF7317    SOIC-8      Dual N/P-channel MOSFET
+U2    LM393D     SO08        Low power voltage comparator
