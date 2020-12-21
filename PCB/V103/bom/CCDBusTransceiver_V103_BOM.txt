@@ -15,12 +15,12 @@ N1    AO3400     SOT23-3     30V N-channel MOSFET
 R1    120        1206        Resistor 1% (1/4W)
 R2    13k        1206        Resistor 1% (1/4W)
 R3    13k        1206        Resistor 1% (1/4W)
-R4    360-2000   1206        Resistor 1% (1/4W)
-R5    360-2000   1206        Resistor 1% (1/4W)
+R4    360        1206        Resistor 1% (1/4W)
+R5    360        1206        Resistor 1% (1/4W)
 R6    10k        1206        Resistor 1% (1/4W)
 R7    10k        1206        Resistor 1% (1/4W)
 R8    10         1206        Resistor 1% (1/4W)
 R9    10         1206        Resistor 1% (1/4W)
 R10   10k        1206        Resistor 1% (1/4W)
 U1    IRF7317    SOIC-8      Dual N/P-channel MOSFET
-U2    LM393D     SO08        Low power voltage comparator
+U2    LM393D     SOIC-8      Low power voltage comparator
