@@ -5,6 +5,8 @@ To be used with [CCDLibrary](https://github.com/laszlodaniel/CCDLibrary).
 
 The Chrysler CCD/SCI Scanner [Firmware](https://github.com/laszlodaniel/ChryslerCCDSCIScanner/tree/master/Arduino/ChryslerCCDSCIScanner) and [GUI](https://github.com/laszlodaniel/ChryslerCCDSCIScanner/raw/master/GUI/ChryslerCCDSCIScanner/bin/Debug/ChryslerCCDSCIScanner_GUI.zip) works with this hardware. There are obvious limitations of course and there may be connections issues but worth a try.
 
+[Get one or two on Tindie!](https://www.tindie.com/products/20980/)
+
 Wiring:
 
 | PCB      | Arduino Mega | OBD2 connector  |
